@@ -7,6 +7,8 @@ namespace RepoTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            // Placing a comment here...
         }
     }
 }

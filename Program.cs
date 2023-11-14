@@ -9,6 +9,8 @@ namespace RepoTest
             // Adding a comment here!
 
             Console.WriteLine("Hello World!");
+
+            // Placing a comment here...
         }
     }
 }
